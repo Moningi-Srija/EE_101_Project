@@ -1,4 +1,4 @@
-# ee_project
+# my_app
 
 A new Flutter project.
 
